@@ -5,9 +5,12 @@ A FAQ on stuff related to cybersecurity
 ### ...on devsecops?
 - [DevSecOps: Implement security on CICD Pipeline](https://medium.com/@DevOps-Diva.o/devsecops-implement-security-on-cicd-pipeline-19eb7aa22626) - One of the best introduction articles on the topic of devsecops, by Devsecops Diva
 
-## How to evaluate a Vendor?
+## ACQUIRE
+### How do I evaluate a software vendor?
 - [Vendor questionnaire](https://docs.google.com/document/d/1idP1gGuEgeinoL6m_hsZ8lQ8wz64BeI-S53n_9kwMkU) at Mozilla
 - [Vendor questionnaire](https://github.com/google/vsaq) at Google
+
+
 ## DESIGN
 ### What fundamental principles should I follow?
 - [NIST SP800-160: Systems Security Engineering](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) - nist.gov
