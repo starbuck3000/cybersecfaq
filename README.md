@@ -59,6 +59,7 @@ A FAQ on stuff related to cybersecurity
 
 ### How do I verify my code dependencies are secure?
 - [Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot) - Dependency checker integrated in GitHub
+- [Deps.dev](https://deps.dev/) - Dependency checker - all languages
 - [Safety](https://pypi.org/project/safety/) - Dependency checker for Python
 
 ### How to verify everything is configured securely?
