@@ -73,6 +73,7 @@ A FAQ on stuff related to cybersecurity
 - [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
 - [CloudTracker](https://github.com/duo-labs/cloudtracker) - Detects over-privileged accounts in AWS
 - [Dockle](https://github.com/goodwithtech/dockle) - Detects vulnerabilities in docker images
+- [DrHeader](https://github.com/Santandersecurityresearch/DrHeader) - verifies HTTP security related headers
 - [Hadolint](https://github.com/hadolint/hadolint) - Detects vulnerabilities in DOCKERFILE files
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Detects flaws in Kubernetes YAML files and Helm charts
