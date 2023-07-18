@@ -76,6 +76,7 @@ A FAQ on stuff related to cybersecurity
 - [DrHeader](https://github.com/Santandersecurityresearch/DrHeader) - verifies HTTP security related headers
 - [Hadolint](https://github.com/hadolint/hadolint) - Detects vulnerabilities in DOCKERFILE files
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
+- [KubeBench](https://github.com/aquasecurity/kube-bench) - Verifies Kubernetes configuration based on CIS Kubernetes Benchmark 
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Detects flaws in Kubernetes YAML files and Helm charts
 - [Lunar](https://github.com/lateralblast/lunar) - Detects configuration errors or weaknesses in operating systems (host scan)
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
