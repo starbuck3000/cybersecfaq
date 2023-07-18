@@ -92,6 +92,7 @@ A FAQ on stuff related to cybersecurity
 ## OPS
 
 ### How do I generate SBOMs? 
+- [Docker Scout](https://www.docker.com/products/docker-scout/) - Produces SBOMs and scans for vulnerabilities in Docker images
 - [Kubeclarity](https://github.com/openclarity/kubeclarity) - Produces SBOMs and scans for vulnerabilities in container images
 
 ### How do I generate inventories of my resources? (cloud)
