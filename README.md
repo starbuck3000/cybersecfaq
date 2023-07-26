@@ -32,7 +32,9 @@ A FAQ on stuff related to cybersecurity
 ### Where can I find coding guidelines?
 - [Django secure coding](https://dzone.com/articles/protect-your-django-web-application-from-security-1) - Dzone.com
 - [Django secure coding](https://docs.djangoproject.com/en/2.1/topics/security/) - Djangoproject.com
-- 
+
+### How can I review my code?
+- [Semgrep](https://semgrep.dev/docs/getting-started/#installing-and-running-semgrep-locally) - Semgrep (bonus: [semgrep guide](https://appsec.guide/docs/static-analysis/semgrep/))
 ### Where/how can I generate an SBOM (software bill of materials)?
 - [Syft](https://github.com/anchore/syft) - A tool for generating the SBOM from container images and filesystems
 
