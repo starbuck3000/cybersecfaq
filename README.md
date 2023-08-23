@@ -27,6 +27,7 @@ A FAQ on stuff related to cybersecurity
   - Acceptable security
   - Human factored security
   - Repeatable security
+- [CISA : principles and approaches for secure design](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default) - CISA (not recommended, here for backup)
 
 ## BUILD
 ### Where can I find coding guidelines?
