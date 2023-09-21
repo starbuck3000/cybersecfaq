@@ -54,6 +54,7 @@ A FAQ on stuff related to cybersecurity
 ### How do I test my apps for vulnerabilities?
 - [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
 - [Chopchop](https://github.com/michelin/ChopChop) - Web application security scanner
+- [Portswigger's XSS cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet) - A cheatsheet with plenty of XSS vectors to test an app (or a browser)
 
 ### How do I check my code for vulnerabilities and errors? (SAST tools)
 - [Bandit](https://github.com/PyCQA/bandit) - SAST for Python
